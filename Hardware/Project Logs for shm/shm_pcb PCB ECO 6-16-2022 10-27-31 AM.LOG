@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=3V3_uC Pin=IC2-B1
+Removed Pin From Net: NetName=NetC46_1 Pin=IC2-B2
+Removed Pin From Net: NetName=GND Pin=IC2-B4
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=NB_UART_RX Pin=R15-2
+Removed Pin From Net: NetName=NB_UART_TX Pin=R16-2
+Removed Pin From Net: NetName=NB_RI Pin=R34-2
+Removed Pin From Net: NetName=3V3_uC Pin=R77-2
+Removed Member From Class: ClassName=connectors Member=R34
+Removed Member From Class: ClassName=connectors Member=R77
+Change Footprint: Footprint Not Found SOP65P640X120-14N
+Change Component Footprint: Designator=R10 Old Footprint=ERJ3EK_(0603) New Footprint=RESC1005X40N
+Change Footprint: Footprint Not Found ERA3KV_(0603)
+Change Footprint: Footprint Not Found ERJ3EK_(0603)
+Change Component Comment : Designator=R10 Old Comment=10K New Comment=10
+Change Component Comment : Designator=IC2 Old Comment=TXS0104ENMNR New Comment=TXB0104QPWRQ1
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "BGA12C50P4X3_250X200X100"; UniqueID = "\QBCWVITH" ("\QBCWVITH")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/txb0104-q1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TXB0104QPWRQ1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = "595-TXB0104QPWRQ1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TXB0104QPWRQ1"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "ERJ3EK_(0603)"; UniqueID = "\JEIMYWMH" ("\JEIMYWMH")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/CR0402.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Added Component: Designator=R33(ERJ3EK_(0603))
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//ERJ-3EKF1002V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC2-1
+Add Pin To Net: Unknown Pin: Pin IC2-7
+Add Pin To Net: Unknown Pin: Pin IC2-14
+Added Pin To Net: NetName=NB_UART_RX Pin=R10-2
+Added Pin To Net: NetName=NB_UART_TX Pin=R15-2
+Added Pin To Net: NetName=NB_RI Pin=R16-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R32-2
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=NetIC2_2 Pin=U5-30
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC2_3 Pin=U5-29
+Added Net: Name=NetIC2_3
+Added Pin To Net: NetName=NetIC2_4 Pin=U5-34
+Added Net: Name=NetIC2_4
+Added Pin To Net: NetName=NetIC2_5 Pin=R76-1
+Added Net: Name=NetIC2_5
+Added Pin To Net: NetName=NetIC2_8 Pin=R33-2
+Added Net: Name=NetIC2_8
+Added Net: Name=NetIC2_10
+Added Pin To Net: NetName=NetIC2_11 Pin=R16-1
+Added Net: Name=NetIC2_11
+Added Pin To Net: NetName=NetIC2_12 Pin=R15-1
+Added Net: Name=NetIC2_12
+Added Pin To Net: NetName=NetIC2_13 Pin=R10-1
+Added Net: Name=NetIC2_13
+Add Class Member: Failed to add class member : Component R18 0
+Add Class Member: Failed to add class member : Component R32 1K
+Added Member To Class: ClassName=connectors Member=Component R33 10K

@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=R30 Old Footprint=RESC1608X55N New Footprint=ERA3KV_(0603)
+Change Footprint: Footprint Not Found ERJ3EK_(0603)
+Added Component: Designator=R18(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC35_1 Pin=R18-1
+Added Pin To Net: NetName=DCDC Pin=R18-2
+Added Member To Class: ClassName=new power management Member=Component R18 0
+Added Room: Name=connectors
+Added Room: Name=mcu_v1
+Added Room: Name=mems
+Added Room: Name=new power management

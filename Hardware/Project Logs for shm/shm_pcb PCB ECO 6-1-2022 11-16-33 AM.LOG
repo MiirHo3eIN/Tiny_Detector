@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LIS_Z Pin=TP2-1
+Removed Pin From Net: NetName=LIS_Y Pin=TP3-1
+Removed Pin From Net: NetName=LIS_X Pin=TP4-1
+Removed Member From Class: ClassName=mems Member=TP2
+Removed Member From Class: ClassName=mems Member=TP3
+Removed Member From Class: ClassName=mems Member=TP4

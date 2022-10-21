@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3V3_uC Pin=J1-2
+Removed Pin From Net: NetName=3V3_BC95 Pin=J1-4
+Removed Pin From Net: NetName=3V3_sensors Pin=J1-6
+Removed Pin From Net: NetName=3V3_sdCard Pin=J1-8
+Removed Pin From Net: NetName=3V3_uC Pin=TP22-1
+Removed Pin From Net: NetName=3V3_BC95 Pin=TP23-1
+Removed Pin From Net: NetName=3V3_sensors Pin=TP24-1
+Removed Pin From Net: NetName=3V3_sdCard Pin=TP25-1
+Removed Member From Class: ClassName=new power management Member=TP22
+Removed Member From Class: ClassName=new power management Member=TP23
+Removed Member From Class: ClassName=new power management Member=TP24
+Removed Member From Class: ClassName=new power management Member=TP25
+Added Pin To Net: NetName=3V3_sdCard Pin=J1-2
+Added Pin To Net: NetName=3V3_sensors Pin=J1-4
+Added Pin To Net: NetName=3V3_uC Pin=J1-6
+Added Pin To Net: NetName=3V3_BC95 Pin=J1-8

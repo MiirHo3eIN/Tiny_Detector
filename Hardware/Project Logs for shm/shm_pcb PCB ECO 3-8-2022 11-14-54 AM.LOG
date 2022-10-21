@@ -1,0 +1,204 @@
+Removed Pin From Net: NetName=NRST Pin=C61-1
+Removed Pin From Net: NetName=GND Pin=C61-2
+Removed Pin From Net: NetName=NRST Pin=D3-1
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=NRST Pin=J9-12
+Removed Pin From Net: NetName=5V_Ext Pin=J9-13
+Removed Pin From Net: NetName=3V3_Ext Pin=J9-14
+Removed Pin From Net: NetName=NRST Pin=J12-A1
+Removed Pin From Net: NetName=GND Pin=J12-A2
+Removed Pin From Net: NetName=NRST Pin=J12-B1
+Removed Pin From Net: NetName=GND Pin=J12-B2
+Removed Pin From Net: NetName=3V3_Ext Pin=J13-5
+Removed Pin From Net: NetName=NRST Pin=J15-A1
+Removed Pin From Net: NetName=GND Pin=J15-A2
+Removed Pin From Net: NetName=NRST Pin=J15-B1
+Removed Pin From Net: NetName=GND Pin=J15-B2
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Member From Class: ClassName=mcu_v1 Member=C61
+Removed Member From Class: ClassName=mcu_v1 Member=D3
+Removed Member From Class: ClassName=mcu_v1 Member=J12
+Removed Member From Class: ClassName=mcu_v1 Member=J15
+Removed Member From Class: ClassName=mems Member=R13
+Removed Member From Class: ClassName=mems Member=R14
+Change Component Footprint: Designator=R14 Old Footprint=ERJ3EK_(0603) New Footprint=PHPA2512E1001BS
+Change Component Footprint: Designator=R13 Old Footprint=ERJ3EK_(0603) New Footprint=RESC1608X55N
+Change Component Comment : Designator=R14 Old Comment=10K New Comment=100
+Change Component Comment : Designator=R13 Old Comment=10K New Comment=330
+Change component parameters: Designator = "R13" ("R13"); Footprint = "ERJ3EK_(0603)"; UniqueID = "\ZPNUGTUC" ("\ZPNUGTUC")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/Product-Datasheets/CMP-A.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CMP0603AFX-3300ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R14" ("R14"); Footprint = "ERJ3EK_(0603)"; UniqueID = "\DREKEPSH" ("\DREKEPSH")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/60160/phpa.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.508mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PHPA2512E1000BST1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=B1(118259104)
+Add component (AddParameter): Name = "Category"; Value = "Pushbutton Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1-1825910-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "10560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4791435"; VariantName = "[No Variations]"
+Added Component: Designator=B2(PTS645SM43JSMTR92LFS)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com/PTS645SM43JSMTR92LFS-C%26K-Components-datasheet-155912617.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com/PTS645SM43JSMTR92LFS-C%26K-Components-datasheet-155912617.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com/PTS645SM43JSMTR92LFS-C%26K-Components-datasheet-67873720.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com/PTS645SM43JSMTR92LFS-C%26K-Components-datasheet-67873720.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com/PTS645SM43JSMTR92LFS-C%26K-Components-datasheet-150821959.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com/PTS645SM43JSMTR92LFS-C%26K-Components-datasheet-150821959.pdf?src-supplier=Sager+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "C&K Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PTS645SM43JSMTR92LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "18999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "108-PTS645SM43JSMTR92LFSCT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R18(ERJXG_(01005))
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-XGNJ224Y"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3_uC Pin=B1-2
+Added Pin To Net: NetName=3V3_uC Pin=B1-4
+Added Pin To Net: NetName=NRST Pin=B2-A1
+Added Pin To Net: NetName=GND Pin=B2-B1
+Added Pin To Net: NetName=NRST Pin=B2-C1
+Added Pin To Net: NetName=GND Pin=B2-D1
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C32-2
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C41-2
+Add Pin To Net: Unknown Pin: Pin C42-1
+Add Pin To Net: Unknown Pin: Pin C42-2
+Add Pin To Net: Unknown Pin: Pin J10-+
+Add Pin To Net: Unknown Pin: Pin J10--
+Added Pin To Net: NetName=NRST Pin=J13-2
+Added Pin To Net: NetName=3V3_Ext Pin=J13-3
+Added Pin To Net: NetName=2.7V Pin=J13-5
+Added Pin To Net: NetName=AGND Pin=J14-1
+Added Pin To Net: NetName=GND Pin=J14-2
+Added Pin To Net: NetName=GND Pin=J14-3
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Added Pin To Net: NetName=3V3_uC Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R18-2
+Add Pin To Net: Unknown Pin: Pin R48-1
+Add Pin To Net: Unknown Pin: Pin R48-2
+Add Pin To Net: Unknown Pin: Pin R49-1
+Add Pin To Net: Unknown Pin: Pin R49-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Pin To Net: Unknown Pin: Pin X2-1
+Add Pin To Net: Unknown Pin: Pin X2-2
+Add Pin To Net: Unknown Pin: Pin X2-3
+Add Pin To Net: Unknown Pin: Pin X2-4
+Added Pin To Net: NetName=INT1_ACC Pin=U4-54
+Added Pin To Net: NetName=INT1_ACC Pin=U8-9
+Added Pin To Net: NetName=INT1_ACC Pin=U10-9
+Added Net: Name=INT1_ACC
+Added Pin To Net: NetName=INT2_ACC Pin=U4-55
+Added Pin To Net: NetName=INT2_ACC Pin=U8-4
+Added Pin To Net: NetName=INT2_ACC Pin=U10-4
+Added Net: Name=INT2_ACC
+Added Pin To Net: NetName=LIS_FS Pin=R2-1
+Added Pin To Net: NetName=LIS_FS Pin=U1-1
+Added Pin To Net: NetName=LIS_FS Pin=U4-76
+Added Net: Name=LIS_FS
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-3
+Added Pin To Net: NetName=NetB1_1 Pin=R13-2
+Added Pin To Net: NetName=NetB1_1 Pin=R14-1
+Added Pin To Net: NetName=NetB1_1 Pin=R18-1
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=Usr_button Pin=R13-1
+Added Pin To Net: NetName=Usr_button Pin=U4-90
+Added Net: Name=Usr_button
+Added Member To Class: ClassName=mcu_v1 Member=Component B1 USER
+Added Member To Class: ClassName=mcu_v1 Member=Component B2 RESET
+Add Class Member: Failed to add class member : Component C31 15pF
+Add Class Member: Failed to add class member : Component C32 15pF
+Add Class Member: Failed to add class member : Component C39 33pF
+Add Class Member: Failed to add class member : Component C40 33pF
+Add Class Member: Failed to add class member : Component C41 33pF
+Add Class Member: Failed to add class member : Component C42 33pF
+Add Class Member: Failed to add class member : Component R5 604
+Add Class Member: Failed to add class member : Component R6 604
+Add Class Member: Failed to add class member : Component R7 604
+Add Class Member: Failed to add class member : Component R8 604
+Added Member To Class: ClassName=mcu_v1 Member=Component R13 330
+Added Member To Class: ClassName=mcu_v1 Member=Component R14 100
+Added Member To Class: ClassName=mcu_v1 Member=Component R18 220K
+Add Class Member: Failed to add class member : Component R48 15K
+Add Class Member: Failed to add class member : Component R49 10
+Add Class Member: Failed to add class member : Component U2 IIS2ICLXTR (Digital Accel.)
+Add Class Member: Failed to add class member : Component U3 STTS751(Temperature)
+Add Class Member: Failed to add class member : Component U6 Voltage-Translator
+Add Class Member: Failed to add class member : Component U7 LSM6DSRXTR
+Add Class Member: Failed to add class member : Component U12 Voltage-Translator
+Add Class Member: Failed to add class member : Component X2 ABM3B-16.000MHZ-10-1-U-T

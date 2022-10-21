@@ -1,0 +1,13 @@
+Added Component: Designator=J7(MICRO-USB(2.0-SMT-TYPE-B))
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/629105136821.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "629105136821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "710-629105136821"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-629105136821"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V_Ext Pin=J7-1
+Added Pin To Net: NetName=GND Pin=J7-5
+Added Pin To Net: NetName=GND Pin=J7-6
+Added Pin To Net: NetName=GND Pin=J7-7
+Added Pin To Net: NetName=GND Pin=J7-8
+Added Pin To Net: NetName=GND Pin=J7-9
+Added Member To Class: ClassName=new power management Member=Component J7 629105136821

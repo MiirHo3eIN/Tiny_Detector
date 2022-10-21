@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=Q8-2
+Removed Pin From Net: NetName=NetC46_1 Pin=R66-2
+Removed Member From Class: ClassName=connectors Member=Q8
+Removed Member From Class: ClassName=connectors Member=R66
+Removed Member From Class: ClassName=connectors Member=TP17

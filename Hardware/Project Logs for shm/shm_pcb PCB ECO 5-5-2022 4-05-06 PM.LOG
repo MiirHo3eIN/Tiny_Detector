@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetLED1_2 Pin=R5-1
+Removed Pin From Net: NetName=3V3_uC Pin=R5-2
+Removed Member From Class: ClassName=mcu_v1 Member=R5
+Add Component: Footprint Not Found INDC1609X100N
+Add Pin To Net: Unknown Pin: Pin J10-+
+Add Pin To Net: Unknown Pin: Pin J10--
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Added Member To Class: ClassName=mcu_v1 Member=Component B1 RESET
+Add Class Member: Failed to add class member : Component R4 604
+Add Class Member: Failed to add class member : Component U2 IIS2ICLXTR (Digital Accel.)
+Added Room: Name=connectors
+Added Room: Name=mcu_v1
+Added Room: Name=mems
+Added Room: Name=new power management

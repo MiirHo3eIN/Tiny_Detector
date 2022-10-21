@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SAI1_SD_B Pin=J9-5
+Removed Pin From Net: NetName=SAI1_FS_B Pin=J9-6
+Removed Pin From Net: NetName=SAI1_SCK_B Pin=J9-7
+Added Pin To Net: NetName=SAI1_FS_B Pin=J9-5
+Added Pin To Net: NetName=SAI1_SCK_B Pin=J9-6
+Added Pin To Net: NetName=SAI1_SD_B Pin=J9-7

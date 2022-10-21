@@ -1,0 +1,222 @@
+Removed Pin From Net: NetName=VBAT+ Pin=J7-1
+Removed Pin From Net: NetName=GND Pin=J7-2
+Removed Member From Class: ClassName=power_supply Member=J7
+Change Component Footprint: Designator=J7 Old Footprint=212528-02YY New Footprint=M208750442
+Change Component Comment : Designator=J7 Old Comment=212528-0201 New Comment=M20-8750442
+Change component parameters: Designator = "J7" ("J7"); Footprint = "212528-02YY"; UniqueID = "\IBAIPAUJ" ("\IBAIPAUJ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//M20-8750442.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "10.64mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M20-8750442"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = "855-M20-8750442"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M20-8750442"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPC1608X90N
+Added Component: Designator=U14(ST1PS01EJR)
+Add component (AddParameter): Name = "Category"; Value = "Voltage Regulators - Switching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.st.com/resource/en/datasheet/st1ps01.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.st.com/resource/en/datasheet/st1ps01.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ST1PS01EJR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "1.8V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Output Voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Configuration"; Value = "Positive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "400mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1924839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Frequency"; Value = "2MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Synchronous Rectifier"; Value = "Yes"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C32-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C41-2
+Add Pin To Net: Unknown Pin: Pin C42-1
+Add Pin To Net: Unknown Pin: Pin C42-2
+Add Pin To Net: Unknown Pin: Pin C52-2
+Add Pin To Net: Unknown Pin: Pin C61-1
+Add Pin To Net: Unknown Pin: Pin C61-2
+Add Pin To Net: Unknown Pin: Pin C62-1
+Add Pin To Net: Unknown Pin: Pin C63-1
+Add Pin To Net: Unknown Pin: Pin C63-2
+Add Pin To Net: Unknown Pin: Pin C64-1
+Add Pin To Net: Unknown Pin: Pin C64-2
+Add Pin To Net: Unknown Pin: Pin C66-1
+Add Pin To Net: Unknown Pin: Pin C66-2
+Add Pin To Net: Unknown Pin: Pin C82-1
+Add Pin To Net: Unknown Pin: Pin C82-2
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-4
+Added Pin To Net: NetName=V_USB Pin=J7-5
+Add Pin To Net: Unknown Pin: Pin J10--
+Added Pin To Net: NetName=GND Pin=J11-2
+Added Pin To Net: NetName=GND Pin=J11-MP1
+Added Pin To Net: NetName=GND Pin=J11-MP2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin R42-1
+Add Pin To Net: Unknown Pin: Pin R42-2
+Add Pin To Net: Unknown Pin: Pin R43-1
+Add Pin To Net: Unknown Pin: Pin R43-2
+Add Pin To Net: Unknown Pin: Pin R44-1
+Add Pin To Net: Unknown Pin: Pin R44-2
+Add Pin To Net: Unknown Pin: Pin R45-1
+Add Pin To Net: Unknown Pin: Pin R45-2
+Add Pin To Net: Unknown Pin: Pin R48-1
+Add Pin To Net: Unknown Pin: Pin R48-2
+Add Pin To Net: Unknown Pin: Pin R49-1
+Add Pin To Net: Unknown Pin: Pin R49-2
+Add Pin To Net: Unknown Pin: Pin R57-1
+Add Pin To Net: Unknown Pin: Pin R57-2
+Add Pin To Net: Unknown Pin: Pin R58-1
+Add Pin To Net: Unknown Pin: Pin R58-2
+Add Pin To Net: Unknown Pin: Pin R83-1
+Add Pin To Net: Unknown Pin: Pin R83-2
+Add Pin To Net: Unknown Pin: Pin R86-1
+Add Pin To Net: Unknown Pin: Pin R86-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-9
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-10
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-12
+Add Pin To Net: Unknown Pin: Pin U9-13
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-16
+Add Pin To Net: Unknown Pin: Pin U9-18
+Add Pin To Net: Unknown Pin: Pin U9-19
+Add Pin To Net: Unknown Pin: Pin U9-20
+Add Pin To Net: Unknown Pin: Pin U9-21
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Added Pin To Net: NetName=GND Pin=U14-D2
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Added Pin To Net: NetName=5V_Ext Pin=J7-7
+Added Net: Name=5V_Ext
+Added Pin To Net: NetName=5V Pin=J7-6
+Added Pin To Net: NetName=5V Pin=J7-8
+Added Net: Name=5V
+Added Pin To Net: NetName=BATT Pin=J7-1
+Added Pin To Net: NetName=BATT Pin=J7-3
+Added Pin To Net: NetName=BATT Pin=J11-1
+Added Net: Name=BATT
+Added Pin To Net: NetName=V_SYS Pin=J7-2
+Added Pin To Net: NetName=V_SYS Pin=J7-4
+Added Pin To Net: NetName=V_SYS Pin=U14-A1
+Added Pin To Net: NetName=V_SYS Pin=U14-A3
+Added Pin To Net: NetName=V_SYS Pin=U14-B2
+Added Pin To Net: NetName=V_SYS Pin=U14-C1
+Added Net: Name=V_SYS
+Add Class Member: Failed to add class member : Component C32 15pF
+Add Class Member: Failed to add class member : Component C33 15pF
+Add Class Member: Failed to add class member : Component C39 33pF
+Add Class Member: Failed to add class member : Component C40 33pF
+Add Class Member: Failed to add class member : Component C41 33pF
+Add Class Member: Failed to add class member : Component C42 33pF
+Add Class Member: Failed to add class member : Component C52 22uF
+Add Class Member: Failed to add class member : Component C61 100u
+Add Class Member: Failed to add class member : Component C62 100u
+Add Class Member: Failed to add class member : Component C63 100u
+Add Class Member: Failed to add class member : Component C64 100u
+Add Class Member: Failed to add class member : Component C66 2.2n
+Add Class Member: Failed to add class member : Component C82 910p
+Add Class Member: Failed to add class member : Component J4 CAN_JUMPER
+Added Member To Class: ClassName=new power management Member=Component J7 M20-8750442
+Add Class Member: Failed to add class member : Component L1 KPZ1608SHR601ATD25
+Add Class Member: Failed to add class member : Component L2 KPZ1608SHR601ATD25
+Add Class Member: Failed to add class member : Component L3 FP1007R3-R17-R
+Add Class Member: Failed to add class member : Component R42 604
+Add Class Member: Failed to add class member : Component R43 604
+Add Class Member: Failed to add class member : Component R44 604
+Add Class Member: Failed to add class member : Component R45 604
+Add Class Member: Failed to add class member : Component R48 15K
+Add Class Member: Failed to add class member : Component R49 10
+Add Class Member: Failed to add class member : Component R57 67.3K
+Add Class Member: Failed to add class member : Component R58 0.01
+Add Class Member: Failed to add class member : Component R83 0.01
+Add Class Member: Failed to add class member : Component R86 60.4K
+Add Class Member: Failed to add class member : Component U2 IIS2ICLXTR (Digital Accel.)
+Add Class Member: Failed to add class member : Component U3 STTS751(Temperature)
+Add Class Member: Failed to add class member : Component U6 Voltage-Translator
+Add Class Member: Failed to add class member : Component U7 LSM6DSRXTR
+Add Class Member: Failed to add class member : Component U8 TI_Battery_Charger
+Add Class Member: Failed to add class member : Component U9 LTC3416-Voltage-Shifter
+Add Class Member: Failed to add class member : Component U12 Voltage-Translator
+Added Member To Class: ClassName=new power management Member=Component U14 ST1PS01EJR
+Add Class Member: Failed to add class member : Component X1 ABM3B-16.000MHZ-10-1-U-T

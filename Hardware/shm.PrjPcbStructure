@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=connectors.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=connectors.SchDoc|FileName=mcu_v1.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=connectors.SchDoc|FileName=mems.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=connectors.SchDoc|FileName=new power management.SchDoc|SheetNumber=3

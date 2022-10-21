@@ -1,0 +1,50 @@
+Change Component Footprint: Designator=J5 Old Footprint=TE_1-2199119-5 New Footprint=21992305
+Added Component: Designator=IC3(SOP65P640X120-20N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/txb0108.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TXB0108PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "595-TXB0108PWR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-TXB0108PWR"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found LEDM168X50N
+Added Pin To Net: NetName=SPI_SDIO2_GAP Pin=IC3-1
+Added Pin To Net: NetName=V1p8 Pin=IC3-2
+Added Pin To Net: NetName=SPI_SDIO3_GAP Pin=IC3-3
+Added Pin To Net: NetName=SPI_SDO_GAP Pin=IC3-4
+Added Pin To Net: NetName=SPI_CS0_GAP Pin=IC3-5
+Added Pin To Net: NetName=SPI2_SCK_GAP Pin=IC3-6
+Added Pin To Net: NetName=SPI2_SDI_GAP Pin=IC3-7
+Added Pin To Net: NetName=GND Pin=IC3-10
+Added Pin To Net: NetName=GND Pin=IC3-11
+Added Pin To Net: NetName=OCTOSPIM_P1_IO1 Pin=IC3-14
+Added Pin To Net: NetName=OCTOSPIM_P1_CLK Pin=IC3-15
+Added Pin To Net: NetName=OCTOSPIM_P1_NCS Pin=IC3-16
+Added Pin To Net: NetName=OCTOSPIM_P1_IO0 Pin=IC3-17
+Added Pin To Net: NetName=OCTOSPIM_P1_IO3 Pin=IC3-18
+Added Pin To Net: NetName=3V3_uC Pin=IC3-19
+Added Pin To Net: NetName=OCTOSPIM_P1_IO2 Pin=IC3-20
+Added Pin To Net: NetName=SPI_SDO_GAP Pin=J5-59
+Added Pin To Net: NetName=SPI_CS0_GAP Pin=J5-61
+Added Pin To Net: NetName=SPI2_SCK_GAP Pin=J5-63
+Added Pin To Net: NetName=SPI2_SDI_GAP Pin=J5-65
+Added Pin To Net: NetName=GND Pin=J5-76
+Added Pin To Net: NetName=GND Pin=J5-77
+Add Pin To Net: Unknown Pin: Pin LED6-1
+Add Pin To Net: Unknown Pin: Pin LED6-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Added Member To Class: ClassName=mcu_v1 Member=Component IC3 TXB0108PWR
+Add Class Member: Failed to add class member : Component LED6 150060VS55040
+Add Class Member: Failed to add class member : Component U2 IIS2ICLXTR (Digital Accel.)

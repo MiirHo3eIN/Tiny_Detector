@@ -1,0 +1,163 @@
+Removed Pin From Net: NetName=5V Pin=C56-1
+Removed Pin From Net: NetName=GND Pin=C56-2
+Removed Pin From Net: NetName=GND Pin=C57-1
+Removed Pin From Net: NetName=GND Pin=C58-1
+Removed Pin From Net: NetName=V_SYS Pin=C58-2
+Removed Pin From Net: NetName=GND Pin=C59-1
+Removed Pin From Net: NetName=mcu_ADC_BATT Pin=R23-1
+Removed Pin From Net: NetName=BATMS Pin=R23-2
+Removed Pin From Net: NetName=NetLED5_2 Pin=R29-1
+Removed Pin From Net: NetName=DCDC Pin=R29-2
+Removed Pin From Net: NetName=DCDC Pin=R30-2
+Removed Pin From Net: NetName=GND Pin=R32-1
+Removed Pin From Net: NetName=mcu_ADC_BATT Pin=R32-2
+Removed Pin From Net: NetName=BATT_NTC Pin=R33-1
+Removed Pin From Net: NetName=GND Pin=R33-2
+Removed Pin From Net: NetName=GND Pin=R35-1
+Removed Pin From Net: NetName=3V3_sdCard Pin=R52-2
+Removed Pin From Net: NetName=GND Pin=R53-1
+Removed Pin From Net: NetName=GND Pin=R61-1
+Removed Pin From Net: NetName=GND Pin=R62-2
+Removed Pin From Net: NetName=GND Pin=U16-A3
+Removed Pin From Net: NetName=GND Pin=U16-B4
+Removed Pin From Net: NetName=BATMS Pin=U16-C4
+Removed Pin From Net: NetName=V_SYS Pin=U16-C5
+Removed Pin From Net: NetName=BATT_NTC Pin=U16-D1
+Removed Pin From Net: NetName=V_SYS Pin=U16-D5
+Removed Pin From Net: NetName=DCDC Pin=U16-E2
+Removed Pin From Net: NetName=5V Pin=U16-E5
+Removed Pin From Net: NetName=DCDC Pin=U16-F3
+Removed Pin From Net: NetName=5V Pin=U16-F5
+Removed Member From Class: ClassName=new power management Member=C56
+Removed Member From Class: ClassName=new power management Member=C57
+Removed Member From Class: ClassName=new power management Member=C58
+Removed Member From Class: ClassName=new power management Member=C59
+Removed Member From Class: ClassName=new power management Member=R32
+Removed Member From Class: ClassName=new power management Member=R33
+Removed Member From Class: ClassName=new power management Member=R35
+Removed Member From Class: ClassName=new power management Member=R52
+Removed Member From Class: ClassName=new power management Member=R53
+Removed Member From Class: ClassName=new power management Member=R60
+Removed Member From Class: ClassName=new power management Member=R61
+Removed Member From Class: ClassName=new power management Member=R62
+Removed Member From Class: ClassName=new power management Member=U16
+Change Component Footprint: Designator=R23 Old Footprint=ERA3KV_(0603) New Footprint=RESC2012X60N
+Change Component Footprint: Designator=R29 Old Footprint=RESC1005X35N New Footprint=RESC1608X55N
+Change Footprint: Footprint Not Found ERA3KV_(0603)
+Change Footprint: Footprint Not Found ERJ3EK_(0603)
+Change Component Comment : Designator=R30 Old Comment=0 New Comment=56K
+Change Component Comment : Designator=R31 Old Comment=0 New Comment=100K
+Change Component Comment : Designator=R23 Old Comment=56K New Comment=600
+Change Component Designator: OldDesignator=RES NewDesignator=B2
+Change Component Designator: OldDesignator=USER NewDesignator=B1
+Change component parameters: Designator = "R23" ("R23"); Footprint = "ERA3KV_(0603)"; UniqueID = "\KCBEKVGY" ("\KCBEKVGY")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CRCW08051R00FKEAHP.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CRCW0805600RFKEAHP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R29" ("R29"); Footprint = "RESC1005X35N"; UniqueID = "\MVJROJVL" ("\MVJROJVL")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0603F2K0C1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R30" ("R30"); Footprint = "RESC1608X55N"; UniqueID = "\NYOMRVFU" ("\NYOMRVFU")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERA-3VRW5602V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "R31" ("R31"); Footprint = "RESC1608X55N"; UniqueID = "\BNUJMMNS" ("\BNUJMMNS")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/docs/product-datasheets/chv.pdf?sfvrsn=adcf1bf9_27"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CHV0603AFX-1003ELF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TAIYO YUDEN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMK107BJ475KA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/GRM188R71A225KE15%23.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71A225KE15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/GRM188R71A225KE15%23.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71A225KE15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAPC1608X90N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://psearch.en.murata.com/capacitor/product/GRM188R71A225KE15%23.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R71A225KE15D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PS1(SON45P300X300X80-13N-D)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/STNS01PUR.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STNS01PUR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1608X55N
+Added Pin To Net: NetName=V_SYS Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=5V Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=5V Pin=PS1-1
+Added Pin To Net: NetName=GND Pin=PS1-7
+Added Pin To Net: NetName=BATT_NTC Pin=PS1-8
+Added Pin To Net: NetName=BATMS Pin=PS1-10
+Added Pin To Net: NetName=V_SYS Pin=PS1-11
+Added Pin To Net: NetName=V_SYS Pin=PS1-12
+Added Pin To Net: NetName=GND Pin=PS1-13
+Add Pin To Net: Unknown Pin: Pin R18-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R23-1
+Added Pin To Net: NetName=GND Pin=R29-1
+Added Pin To Net: NetName=mcu_ADC_BATT Pin=R30-1
+Added Pin To Net: NetName=BATMS Pin=R30-2
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=mcu_ADC_BATT Pin=R31-2
+Change Net Name : Old Net Name=V_SYS New Net Name=V_BATT
+Added Pin To Net: NetName=CEN_BATT Pin=PS1-6
+Added Pin To Net: NetName=CEN_BATT Pin=U4-140
+Added Net: Name=CEN_BATT
+Added Pin To Net: NetName=CHG_BATT Pin=LED5-1
+Added Pin To Net: NetName=CHG_BATT Pin=PS1-5
+Added Pin To Net: NetName=CHG_BATT Pin=U4-69
+Added Net: Name=CHG_BATT
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=PS1-3
+Added Pin To Net: NetName=NetC35_1 Pin=R23-2
+Added Net: Name=NetC35_1
+Added Pin To Net: NetName=NetPS1_9 Pin=PS1-9
+Added Pin To Net: NetName=NetPS1_9 Pin=R29-2
+Added Net: Name=NetPS1_9
+Added Pin To Net: NetName=SD_BATT_CHG Pin=PS1-4
+Added Pin To Net: NetName=SD_BATT_CHG Pin=U4-139
+Added Net: Name=SD_BATT_CHG
+Added Pin To Net: NetName=V_SYS Pin=C13-1
+Added Pin To Net: NetName=V_SYS Pin=PS1-2
+Added Net: Name=V_SYS
+Added Member To Class: ClassName=new power management Member=Component C11 4.7uF
+Added Member To Class: ClassName=new power management Member=Component C12 2.2uF
+Added Member To Class: ClassName=new power management Member=Component C13 2.2uF
+Added Member To Class: ClassName=new power management Member=Component C35 2.2uF
+Added Member To Class: ClassName=new power management Member=Component PS1 STNS01PUR
+Add Class Member: Failed to add class member : Component R18 0

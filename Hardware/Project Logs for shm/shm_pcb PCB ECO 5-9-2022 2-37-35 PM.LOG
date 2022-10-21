@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GPIO1 Pin=U4-92
+Removed Member From Class: ClassName=mems Member=J7
+Removed Member From Class: ClassName=mems Member=J11
+Add Pin To Net: Unknown Pin: Pin J10-+
+Add Pin To Net: Unknown Pin: Pin J10--
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Added Pin To Net: NetName=GPIO1 Pin=U4-89
+Added Pin To Net: NetName=CS_BERK Pin=U4-93
+Added Net: Name=CS_BERK
+Added Pin To Net: NetName=CS_ISM Pin=U4-92
+Added Pin To Net: NetName=CS_ISM Pin=U10-12
+Added Net: Name=CS_ISM
+Added Pin To Net: NetName=INT1_BERK Pin=U4-54
+Added Net: Name=INT1_BERK
+Added Pin To Net: NetName=INT1_ISM Pin=U4-50
+Added Pin To Net: NetName=INT1_ISM Pin=U10-9
+Added Net: Name=INT1_ISM
+Added Pin To Net: NetName=INT2_BERK Pin=U4-55
+Added Net: Name=INT2_BERK
+Added Pin To Net: NetName=INT2_ISM Pin=U4-53
+Added Pin To Net: NetName=INT2_ISM Pin=U10-4
+Added Net: Name=INT2_ISM

@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=SPI3_CS Pin=U10-12
+Added Component: Designator=J7(HDRV2W60P0X200_1X2_400X200X525P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M22-251.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M22-2510205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J11(HDRV2W60P0X200_1X2_400X200X525P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M22-251.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M22-2510205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1608X55N
+Add Component: Footprint Not Found RESC1608X55N
+Added Pin To Net: NetName=SPI3_CS Pin=J7-2
+Add Pin To Net: Unknown Pin: Pin J10-+
+Add Pin To Net: Unknown Pin: Pin J10--
+Added Pin To Net: NetName=SPI3_CS Pin=J11-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-1
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Added Pin To Net: NetName=SPI3_CS1 Pin=J7-1
+Added Net: Name=SPI3_CS1
+Added Pin To Net: NetName=SPI3_CS2 Pin=J11-1
+Added Pin To Net: NetName=SPI3_CS2 Pin=U10-12
+Added Net: Name=SPI3_CS2
+Added Member To Class: ClassName=mems Member=Component J7 M22-2510205
+Added Member To Class: ClassName=mems Member=Component J11 M22-2510205
+Add Class Member: Failed to add class member : Component R24 0
+Add Class Member: Failed to add class member : Component R25 0
+Add Class Member: Failed to add class member : Component U2 IIS2ICLXTR (Digital Accel.)
+Added Room: Name=connectors
+Added Room: Name=mcu_v1
+Added Room: Name=mems
+Added Room: Name=new power management

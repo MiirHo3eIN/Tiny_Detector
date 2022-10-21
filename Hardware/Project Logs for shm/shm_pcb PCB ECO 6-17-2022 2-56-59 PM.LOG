@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NB_RI Pin=U4-70
+Removed Pin From Net: NetName=NB_NET_STATUS Pin=U4-73
+Removed Pin From Net: NetName=NB_RST Pin=U4-74

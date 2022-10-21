@@ -1,0 +1,23 @@
+Added Component: Designator=U2(Berkley)
+Add component (AddParameter): Name = "Category"; Value = "Accelerometers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "IIS2ICLXTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "25"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-IIS2ICLXCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR3_1 Pin=U2-1
+Added Pin To Net: NetName=CS_BERK Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=INT2_BERK Pin=U2-4
+Added Pin To Net: NetName=SPI3_MISO Pin=U2-5
+Added Pin To Net: NetName=INT1_BERK Pin=U2-6
+Added Pin To Net: NetName=NetR3_1 Pin=U2-8
+Added Pin To Net: NetName=NetR3_1 Pin=U2-9
+Added Pin To Net: NetName=SPI3_CLK Pin=U2-10
+Added Pin To Net: NetName=SPI3_MOSI Pin=U2-11
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Member To Class: ClassName=mems Member=Component U2 IIS2ICLXTR (Digital Accel.)

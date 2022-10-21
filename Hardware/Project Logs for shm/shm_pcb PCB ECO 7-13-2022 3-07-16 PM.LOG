@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=GND Pin=J4-8
+Added Component: Designator=R35(RESC1005X40N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/CR0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R43(RESC1005X40N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/CR0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NB_NET_STATUS Pin=Q5-3
+Added Pin To Net: NetName=NB_NET_STATUS Pin=R63-1
+Added Pin To Net: NetName=GPIO0_GAPST Pin=R35-1
+Added Pin To Net: NetName=GPIO0_GAPST Pin=U4-69
+Added Net: Name=GPIO0_GAPST
+Added Pin To Net: NetName=GPIO0_GAP Pin=IC3-8
+Added Pin To Net: NetName=GPIO0_GAP Pin=J5-32
+Added Net: Name=GPIO0_GAP
+Added Pin To Net: NetName=GPIO1_GAPST Pin=R43-1
+Added Pin To Net: NetName=GPIO1_GAPST Pin=U4-70
+Added Net: Name=GPIO1_GAPST
+Added Pin To Net: NetName=GPIO1_GAP Pin=IC3-9
+Added Pin To Net: NetName=GPIO1_GAP Pin=J5-34
+Added Net: Name=GPIO1_GAP
+Added Pin To Net: NetName=GPIO2_GAP Pin=J4-7
+Added Pin To Net: NetName=GPIO2_GAP Pin=J5-36
+Added Net: Name=GPIO2_GAP
+Added Pin To Net: NetName=GPIO3_GAP Pin=J4-8
+Added Pin To Net: NetName=GPIO3_GAP Pin=J5-38
+Added Net: Name=GPIO3_GAP
+Added Pin To Net: NetName=I2C1_SCL_GAP Pin=J4-5
+Added Pin To Net: NetName=I2C1_SCL_GAP Pin=J5-58
+Added Net: Name=I2C1_SCL_GAP
+Added Pin To Net: NetName=I2C1_SDA_GAP Pin=J4-3
+Added Pin To Net: NetName=I2C1_SDA_GAP Pin=J5-56
+Added Net: Name=I2C1_SDA_GAP
+Added Pin To Net: NetName=JTAG_NTRST_GAP Pin=J5-24
+Added Pin To Net: NetName=JTAG_NTRST_GAP Pin=J10-10
+Added Net: Name=JTAG_NTRST_GAP
+Added Pin To Net: NetName=JTAG_TCK_GAP Pin=J5-20
+Added Pin To Net: NetName=JTAG_TCK_GAP Pin=J10-4
+Added Net: Name=JTAG_TCK_GAP
+Added Pin To Net: NetName=JTAG_TDI_GAP Pin=J5-26
+Added Pin To Net: NetName=JTAG_TDI_GAP Pin=J10-8
+Added Net: Name=JTAG_TDI_GAP
+Added Pin To Net: NetName=JTAG_TDO_GAP Pin=J5-22
+Added Pin To Net: NetName=JTAG_TDO_GAP Pin=J10-6
+Added Net: Name=JTAG_TDO_GAP
+Added Pin To Net: NetName=JTAG_TMS_GAP Pin=J5-28
+Added Pin To Net: NetName=JTAG_TMS_GAP Pin=J10-2
+Added Net: Name=JTAG_TMS_GAP
+Added Pin To Net: NetName=NetIC3_12 Pin=IC3-12
+Added Pin To Net: NetName=NetIC3_12 Pin=R43-2
+Added Net: Name=NetIC3_12
+Added Pin To Net: NetName=NetIC3_13 Pin=IC3-13
+Added Pin To Net: NetName=NetIC3_13 Pin=R35-2
+Added Net: Name=NetIC3_13
+Added Pin To Net: NetName=RESET_N_GAP Pin=J4-2
+Added Pin To Net: NetName=RESET_N_GAP Pin=J5-30
+Added Net: Name=RESET_N_GAP
+Added Pin To Net: NetName=UART0_Rx_GAP Pin=J4-4
+Added Pin To Net: NetName=UART0_Rx_GAP Pin=J5-69
+Added Net: Name=UART0_Rx_GAP
+Added Pin To Net: NetName=UART0_Tx_GAP Pin=J4-6
+Added Pin To Net: NetName=UART0_Tx_GAP Pin=J5-71
+Added Net: Name=UART0_Tx_GAP
+Added Member To Class: ClassName=mcu_v1 Member=Component R35 10
+Added Member To Class: ClassName=mcu_v1 Member=Component R43 10

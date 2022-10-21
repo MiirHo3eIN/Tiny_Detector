@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=TP7 Old Footprint=test_point New Footprint=TP_V1
+Change Component Footprint: Designator=TP9 Old Footprint=test_point New Footprint=TP_V1
+Change Component Footprint: Designator=TP10 Old Footprint=test_point New Footprint=TP_V1
+Change Component Comment : Designator=TP7 Old Comment=test_point New Comment=TP_V1
+Change Component Comment : Designator=TP9 Old Comment=test_point New Comment=TP_V1
+Change Component Comment : Designator=TP10 Old Comment=test_point New Comment=TP_V1
+Change Component Kind : Designator=TP10 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP9 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP7 Old Kind=Standard (No BOM) New Kind=Standard
+Added Component: Designator=TP1(test_point)
+Added Component: Designator=TP2(TP_V1)
+Added Component: Designator=TP3(TP_V1)
+Added Component: Designator=TP4(TP_V1)
+Added Pin To Net: NetName=LIS_Z Pin=TP2-1
+Added Pin To Net: NetName=LIS_Y Pin=TP3-1
+Added Pin To Net: NetName=LIS_X Pin=TP4-1
+Added Member To Class: ClassName=mems Member=Component TP1 test_point
+Added Member To Class: ClassName=mems Member=Component TP2 TP_V1
+Added Member To Class: ClassName=mems Member=Component TP3 TP_V1
+Added Member To Class: ClassName=mems Member=Component TP4 TP_V1

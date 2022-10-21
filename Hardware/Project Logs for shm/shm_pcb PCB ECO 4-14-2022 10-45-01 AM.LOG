@@ -1,0 +1,92 @@
+Removed Pin From Net: NetName=OCTOSPIM_P1_NCS Pin=J8-1
+Removed Pin From Net: NetName=OCTOSPIM_P1_CLK Pin=J8-2
+Removed Pin From Net: NetName=OCTOSPIM_P1_IO0 Pin=J8-3
+Removed Pin From Net: NetName=OCTOSPIM_P1_IO1 Pin=J8-4
+Removed Pin From Net: NetName=OCTOSPIM_P1_IO2 Pin=J8-5
+Removed Pin From Net: NetName=OCTOSPIM_P1_IO3 Pin=J8-6
+Added Component: Designator=J5(TE_1-2199119-5)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "A115902CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com/product-detail/en/te-connectivity-amp-connectors/1-2199119-5/A115902CT-ND/4208910?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1-2199119-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-2199119-5/TE%20Connectivity%20AMP%20Connectors/view-part/2754473/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TE_purchase_URL"; Value = "https://www.te.com/usa-en/product-1-2199119-5.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT95P280X145-6N
+Added Component: Designator=U7(LGA-14_1)
+Add component (AddParameter): Name = "Category"; Value = "Inertial Measurement Units (IMUs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LSM6DSRXTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-LSM6DSRXDKR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OCTOSPIM_P1_NCS Pin=J5-1
+Added Pin To Net: NetName=OCTOSPIM_P1_CLK Pin=J5-3
+Added Pin To Net: NetName=OCTOSPIM_P1_IO0 Pin=J5-5
+Added Pin To Net: NetName=OCTOSPIM_P1_IO1 Pin=J5-7
+Added Pin To Net: NetName=OCTOSPIM_P1_IO2 Pin=J5-9
+Added Pin To Net: NetName=OCTOSPIM_P1_IO3 Pin=J5-11
+Added Pin To Net: NetName=USART2_TX Pin=J5-21
+Added Pin To Net: NetName=USART2_RX Pin=J5-23
+Added Pin To Net: NetName=SPI1_MISO Pin=J5-25
+Added Pin To Net: NetName=SPI1_MOSI Pin=J5-27
+Added Pin To Net: NetName=SPI1_SCK Pin=J5-29
+Added Pin To Net: NetName=SPI_CS Pin=J5-31
+Added Pin To Net: NetName=I2C2_SMBA Pin=J5-39
+Added Pin To Net: NetName=I2C2_SCL Pin=J5-41
+Added Pin To Net: NetName=I2C2_SDA Pin=J5-43
+Added Pin To Net: NetName=SAI1_FS_B Pin=J5-45
+Added Pin To Net: NetName=SAI1_SCK_B Pin=J5-47
+Added Pin To Net: NetName=SAI1_SD_B Pin=J5-49
+Added Pin To Net: NetName=SAI1_SD_A Pin=J5-52
+Added Pin To Net: NetName=SAI1_FS_A Pin=J5-54
+Added Pin To Net: NetName=SAI1_SCK_A Pin=J5-56
+Added Pin To Net: NetName=GND Pin=J5-69
+Added Pin To Net: NetName=3V3_Ext Pin=J5-71
+Added Pin To Net: NetName=5V_Ext Pin=J5-73
+Added Pin To Net: NetName=2.7V Pin=J5-75
+Added Pin To Net: NetName=GND Pin=J5-SH1
+Added Pin To Net: NetName=GND Pin=J5-SH2
+Add Pin To Net: Unknown Pin: Pin J10-+
+Add Pin To Net: Unknown Pin: Pin J10--
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Added Pin To Net: NetName=SPI3_MISO Pin=U7-1
+Added Pin To Net: NetName=NetR21_1 Pin=U7-2
+Added Pin To Net: NetName=NetR21_1 Pin=U7-3
+Added Pin To Net: NetName=INT2_ACC Pin=U7-4
+Added Pin To Net: NetName=NetR21_1 Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U7-7
+Added Pin To Net: NetName=NetR21_1 Pin=U7-8
+Added Pin To Net: NetName=INT1_ACC Pin=U7-9
+Added Pin To Net: NetName=SPI3_CS Pin=U7-12
+Added Pin To Net: NetName=SPI3_CLK Pin=U7-13
+Added Pin To Net: NetName=SPI3_MOSI Pin=U7-14
+Added Member To Class: ClassName=mcu_v1 Member=Component J5 1-2199119-5
+Add Class Member: Failed to add class member : Component U2 IIS2ICLXTR (Digital Accel.)
+Add Class Member: Failed to add class member : Component U3 STTS751(Temperature)
+Added Member To Class: ClassName=mems Member=Component U7 LSM6DSRXTR
+Added Room: Name=connectors
+Added Room: Name=mcu_v1
+Added Room: Name=mems
+Added Room: Name=new power management

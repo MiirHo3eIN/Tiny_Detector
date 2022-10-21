@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=TP1 Old Footprint=KEYSTONE_5001 New Footprint=test_point
+Change Component Footprint: Designator=TP2 Old Footprint=KEYSTONE_5001 New Footprint=test_point
+Change Component Footprint: Designator=TP3 Old Footprint=KEYSTONE_5001 New Footprint=test_point
+Change Component Comment : Designator=TP1 Old Comment=Test Point New Comment=test_point
+Change Component Comment : Designator=TP2 Old Comment=Test Point New Comment=test_point
+Change Component Comment : Designator=TP3 Old Comment=Test Point New Comment=test_point
+Change Component Kind : Designator=TP3 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP2 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=TP1 Old Kind=Standard New Kind=Standard (No BOM)
+Change component parameters: Designator = "TP1" ("TP1"); Footprint = "KEYSTONE_5001"; UniqueID = "\SKACMMIZ" ("\SKACMMIZ")
+Change component parameters: Designator = "TP2" ("TP2"); Footprint = "KEYSTONE_5001"; UniqueID = "\WQJGKGXA" ("\WQJGKGXA")
+Change component parameters: Designator = "TP3" ("TP3"); Footprint = "KEYSTONE_5001"; UniqueID = "\MEJQTMID" ("\MEJQTMID")

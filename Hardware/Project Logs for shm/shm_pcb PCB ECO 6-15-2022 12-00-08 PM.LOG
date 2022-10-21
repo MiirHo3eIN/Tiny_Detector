@@ -1,0 +1,11 @@
+Change Footprint: Footprint Not Found ERJ3EK_(0603)
+Added Component: Designator=R14(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//ERJ-3EKF1002V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST Pin=R14-1
+Added Pin To Net: NetName=3V3_uC Pin=R14-2
+Added Member To Class: ClassName=mcu_v1 Member=Component R14 10K

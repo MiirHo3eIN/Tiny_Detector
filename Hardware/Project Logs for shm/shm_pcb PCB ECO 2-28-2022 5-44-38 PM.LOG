@@ -1,0 +1,171 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C32-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C41-2
+Add Pin To Net: Unknown Pin: Pin C42-1
+Add Pin To Net: Unknown Pin: Pin C42-2
+Add Pin To Net: Unknown Pin: Pin C61-1
+Add Pin To Net: Unknown Pin: Pin C61-2
+Add Pin To Net: Unknown Pin: Pin C62-1
+Add Pin To Net: Unknown Pin: Pin C63-1
+Add Pin To Net: Unknown Pin: Pin C63-2
+Add Pin To Net: Unknown Pin: Pin C64-1
+Add Pin To Net: Unknown Pin: Pin C64-2
+Add Pin To Net: Unknown Pin: Pin C66-1
+Add Pin To Net: Unknown Pin: Pin C66-2
+Add Pin To Net: Unknown Pin: Pin C82-1
+Add Pin To Net: Unknown Pin: Pin C82-2
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-4
+Add Pin To Net: Unknown Pin: Pin J10-+
+Add Pin To Net: Unknown Pin: Pin J10--
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin R42-1
+Add Pin To Net: Unknown Pin: Pin R42-2
+Add Pin To Net: Unknown Pin: Pin R43-1
+Add Pin To Net: Unknown Pin: Pin R43-2
+Add Pin To Net: Unknown Pin: Pin R44-1
+Add Pin To Net: Unknown Pin: Pin R44-2
+Add Pin To Net: Unknown Pin: Pin R45-1
+Add Pin To Net: Unknown Pin: Pin R45-2
+Add Pin To Net: Unknown Pin: Pin R48-1
+Add Pin To Net: Unknown Pin: Pin R48-2
+Add Pin To Net: Unknown Pin: Pin R49-1
+Add Pin To Net: Unknown Pin: Pin R49-2
+Add Pin To Net: Unknown Pin: Pin R57-1
+Add Pin To Net: Unknown Pin: Pin R57-2
+Add Pin To Net: Unknown Pin: Pin R58-1
+Add Pin To Net: Unknown Pin: Pin R58-2
+Add Pin To Net: Unknown Pin: Pin R83-1
+Add Pin To Net: Unknown Pin: Pin R83-2
+Add Pin To Net: Unknown Pin: Pin R86-1
+Add Pin To Net: Unknown Pin: Pin R86-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-9
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-10
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-12
+Add Pin To Net: Unknown Pin: Pin U9-13
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-16
+Add Pin To Net: Unknown Pin: Pin U9-18
+Add Pin To Net: Unknown Pin: Pin U9-19
+Add Pin To Net: Unknown Pin: Pin U9-20
+Add Pin To Net: Unknown Pin: Pin U9-21
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Change Net Name : Old Net Name=NetJ?_2 New Net Name=NetJ5_2
+Change Net Name : Old Net Name=NetJ?_3 New Net Name=NetJ5_3
+Add Class Member: Failed to add class member : Component C32 15pF
+Add Class Member: Failed to add class member : Component C33 15pF
+Add Class Member: Failed to add class member : Component C39 33pF
+Add Class Member: Failed to add class member : Component C40 33pF
+Add Class Member: Failed to add class member : Component C41 33pF
+Add Class Member: Failed to add class member : Component C42 33pF
+Add Class Member: Failed to add class member : Component C61 100u
+Add Class Member: Failed to add class member : Component C62 100u
+Add Class Member: Failed to add class member : Component C63 100u
+Add Class Member: Failed to add class member : Component C64 100u
+Add Class Member: Failed to add class member : Component C66 2.2n
+Add Class Member: Failed to add class member : Component C82 910p
+Add Class Member: Failed to add class member : Component J4 CAN_JUMPER
+Added Member To Class: ClassName=new power management Member=Component J10 CON1
+Added Member To Class: ClassName=new power management Member=Component J11 BATT
+Add Class Member: Failed to add class member : Component L1 KPZ1608SHR601ATD25
+Add Class Member: Failed to add class member : Component L2 KPZ1608SHR601ATD25
+Add Class Member: Failed to add class member : Component L3 FP1007R3-R17-R
+Added Member To Class: ClassName=new power management Member=Component R25 0
+Add Class Member: Failed to add class member : Component R42 604
+Add Class Member: Failed to add class member : Component R43 604
+Add Class Member: Failed to add class member : Component R44 604
+Add Class Member: Failed to add class member : Component R45 604
+Add Class Member: Failed to add class member : Component R48 15K
+Add Class Member: Failed to add class member : Component R49 10
+Add Class Member: Failed to add class member : Component R57 67.3K
+Add Class Member: Failed to add class member : Component R58 0.01
+Add Class Member: Failed to add class member : Component R83 0.01
+Add Class Member: Failed to add class member : Component R86 60.4K
+Add Class Member: Failed to add class member : Component U2 IIS2ICLXTR (Digital Accel.)
+Add Class Member: Failed to add class member : Component U3 STTS751(Temperature)
+Add Class Member: Failed to add class member : Component U6 Voltage-Translator
+Add Class Member: Failed to add class member : Component U7 LSM6DSRXTR
+Add Class Member: Failed to add class member : Component U8 TI_Battery_Charger
+Add Class Member: Failed to add class member : Component U9 LTC3416-Voltage-Shifter
+Add Class Member: Failed to add class member : Component U12 Voltage-Translator
+Add Class Member: Failed to add class member : Component X1 ABM3B-16.000MHZ-10-1-U-T

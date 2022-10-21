@@ -1,0 +1,8 @@
+Added Component: Designator=TP1(test_point)
+Added Component: Designator=TP2(test_point)
+Added Component: Designator=TP3(test_point)
+Added Pin To Net: NetName=LIS_Z Pin=TP2-1
+Added Pin To Net: NetName=LIS_Y Pin=TP3-1
+Added Member To Class: ClassName=mems Member=Component TP1 test_point
+Added Member To Class: ClassName=mems Member=Component TP2 test_point
+Added Member To Class: ClassName=mems Member=Component TP3 test_point

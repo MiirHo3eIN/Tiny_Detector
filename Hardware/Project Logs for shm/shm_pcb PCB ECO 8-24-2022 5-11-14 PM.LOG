@@ -1,0 +1,134 @@
+Removed Pin From Net: NetName=CS_BERK Pin=U2-2
+Removed Pin From Net: NetName=SPI3_MISO Pin=U2-5
+Removed Pin From Net: NetName=SPI3_CLK Pin=U2-10
+Removed Pin From Net: NetName=SPI3_MOSI Pin=U2-11
+Removed Pin From Net: NetName=LED1 Pin=U4-79
+Removed Pin From Net: NetName=LED2 Pin=U4-80
+Removed Pin From Net: NetName=LED3 Pin=U4-81
+Removed Pin From Net: NetName=LED4 Pin=U4-82
+Added Component: Designator=R62(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R64(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R65(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R66(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R68(ERJ3EK_(0603))
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//ERJ-3EKF1002V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Added Component: Designator=R69(ERJ3EK_(0603))
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//ERJ-3EKF1002V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Added Component: Designator=R70(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R71(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R72(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R73(RESC1608X55N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO (PHYCOMP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CS_BERK Pin=R62-1
+Added Pin To Net: NetName=SPI3_CLK Pin=R64-1
+Added Pin To Net: NetName=SPI3_MOSI Pin=R65-1
+Added Pin To Net: NetName=SPI3_MISO Pin=R66-1
+Added Pin To Net: NetName=NetR3_1 Pin=R68-1
+Added Pin To Net: NetName=NetR3_1 Pin=R69-1
+Added Pin To Net: NetName=NetR3_1 Pin=R70-1
+Added Pin To Net: NetName=NetR3_1 Pin=R73-1
+Added Pin To Net: NetName=LED1 Pin=U4-78
+Added Pin To Net: NetName=LED2 Pin=U4-79
+Added Pin To Net: NetName=LED3 Pin=U4-85
+Added Pin To Net: NetName=LED4 Pin=U4-86
+Change Net Name : Old Net Name=NetR3_1 New Net Name=Berk_Vdd
+Added Pin To Net: NetName=I2C2_SCL_INC Pin=R69-2
+Added Pin To Net: NetName=I2C2_SCL_INC Pin=R71-1
+Added Pin To Net: NetName=I2C2_SCL_INC Pin=U4-11
+Added Net: Name=I2C2_SCL_INC
+Added Pin To Net: NetName=I2C2_SDA_INC Pin=R68-2
+Added Pin To Net: NetName=I2C2_SDA_INC Pin=R72-1
+Added Pin To Net: NetName=I2C2_SDA_INC Pin=U4-10
+Added Net: Name=I2C2_SDA_INC
+Added Pin To Net: NetName=I2C4_SCL Pin=J9-13
+Added Pin To Net: NetName=I2C4_SCL Pin=U4-81
+Added Net: Name=I2C4_SCL
+Added Pin To Net: NetName=I2C4_SDA Pin=J9-14
+Added Pin To Net: NetName=I2C4_SDA Pin=U4-82
+Added Net: Name=I2C4_SDA
+Added Pin To Net: NetName=I2C4_SMBA Pin=J9-12
+Added Pin To Net: NetName=I2C4_SMBA Pin=U4-80
+Added Net: Name=I2C4_SMBA
+Added Pin To Net: NetName=NetR62_2 Pin=R62-2
+Added Pin To Net: NetName=NetR62_2 Pin=R70-2
+Added Pin To Net: NetName=NetR62_2 Pin=U2-2
+Added Net: Name=NetR62_2
+Added Pin To Net: NetName=NetR64_2 Pin=R64-2
+Added Pin To Net: NetName=NetR64_2 Pin=R72-2
+Added Pin To Net: NetName=NetR64_2 Pin=U2-10
+Added Net: Name=NetR64_2
+Added Pin To Net: NetName=NetR65_2 Pin=R65-2
+Added Pin To Net: NetName=NetR65_2 Pin=R71-2
+Added Pin To Net: NetName=NetR65_2 Pin=U2-11
+Added Net: Name=NetR65_2
+Added Pin To Net: NetName=NetR66_2 Pin=R66-2
+Added Pin To Net: NetName=NetR66_2 Pin=R73-2
+Added Pin To Net: NetName=NetR66_2 Pin=U2-5
+Added Net: Name=NetR66_2
+Added Member To Class: ClassName=mems Member=Component R62 0
+Added Member To Class: ClassName=mems Member=Component R64 0
+Added Member To Class: ClassName=mems Member=Component R65 0
+Added Member To Class: ClassName=mems Member=Component R66 0
+Added Member To Class: ClassName=mems Member=Component R68 10K
+Added Member To Class: ClassName=mems Member=Component R69 10K
+Added Member To Class: ClassName=mems Member=Component R70 0
+Added Member To Class: ClassName=mems Member=Component R71 0
+Added Member To Class: ClassName=mems Member=Component R72 0
+Added Member To Class: ClassName=mems Member=Component R73 0

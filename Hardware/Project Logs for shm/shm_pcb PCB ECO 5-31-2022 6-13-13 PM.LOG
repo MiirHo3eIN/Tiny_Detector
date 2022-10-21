@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=LIS_Z Pin=TP1-1
+Removed Pin From Net: NetName=LIS_Y Pin=TP2-1
+Removed Pin From Net: NetName=LIS_X Pin=TP3-1
+Removed Pin From Net: NetName=CANL Pin=TP6-1
+Removed Pin From Net: NetName=CANH Pin=TP7-1
+Removed Pin From Net: NetName=CS_BERK Pin=TP9-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=TP10-1
+Removed Pin From Net: NetName=I2C1_SDA Pin=TP11-1
+Removed Pin From Net: NetName=INT_STT Pin=TP12-1
+Removed Pin From Net: NetName=SPI3_MOSI Pin=TP13-1
+Removed Pin From Net: NetName=SPI3_CLK Pin=TP14-1
+Removed Pin From Net: NetName=CS_ISM Pin=TP15-1
+Removed Pin From Net: NetName=SPI3_MISO Pin=TP16-1
+Removed Member From Class: ClassName=connectors Member=TP6
+Removed Member From Class: ClassName=connectors Member=TP7
+Removed Member From Class: ClassName=mems Member=TP15
+Removed Member From Class: ClassName=mems Member=TP16
+Added Component: Designator=TP4(test_point)
+Added Pin To Net: NetName=LIS_Z Pin=TP2-1
+Added Pin To Net: NetName=LIS_Y Pin=TP3-1
+Added Pin To Net: NetName=LIS_X Pin=TP4-1
+Added Pin To Net: NetName=CS_BERK Pin=TP6-1
+Added Pin To Net: NetName=I2C1_SCL Pin=TP7-1
+Added Pin To Net: NetName=I2C1_SDA Pin=TP9-1
+Added Pin To Net: NetName=INT_STT Pin=TP10-1
+Added Pin To Net: NetName=SPI3_MOSI Pin=TP11-1
+Added Pin To Net: NetName=SPI3_CLK Pin=TP12-1
+Added Pin To Net: NetName=CS_ISM Pin=TP13-1
+Added Pin To Net: NetName=SPI3_MISO Pin=TP14-1
+Added Pin To Net: NetName=CANL Pin=TP15-1
+Added Pin To Net: NetName=CANH Pin=TP16-1
+Added Member To Class: ClassName=mems Member=Component TP4 test_point
+Added Member To Class: ClassName=mems Member=Component TP6 test_point
+Added Member To Class: ClassName=mems Member=Component TP7 test_point
+Added Member To Class: ClassName=connectors Member=Component TP15 test_point
+Added Member To Class: ClassName=connectors Member=Component TP16 test_point

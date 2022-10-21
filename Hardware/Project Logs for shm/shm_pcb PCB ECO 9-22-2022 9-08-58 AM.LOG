@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3V3_uC Pin=R49-1
+Removed Pin From Net: NetName=3V3_BC95 Pin=R49-2
+Change Component Footprint: Designator=R49 Old Footprint=RESCAF_LVK12-4 New Footprint=ERJ6_B_BW_R_LW_CW_D
+Change component parameters: Designator = "R49" ("R49"); Footprint = "RESCAF_LVK12-4"; UniqueID = "\ZPRXPWSB" ("\ZPRXPWSB")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//ERJ-6CWDR010V.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-6CWDR010V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = "667-ERJ-6CWDR010V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-6CWDR010V"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(test_point)
+Added Pin To Net: NetName=3V3_BC95 Pin=R49-1
+Added Pin To Net: NetName=3V3_uC Pin=R49-2

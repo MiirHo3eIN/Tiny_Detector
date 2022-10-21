@@ -1,0 +1,249 @@
+Removed Pin From Net: NetName=NetR?_1 Pin=R?-1
+Removed Pin From Net: NetName=I2C2_SDA Pin=U?-6
+Removed Pin From Net: NetName=CS_DSR Pin=U?-12
+Removed Member From Class: ClassName=mcu Member=C?
+Removed Member From Class: ClassName=mcu Member=J?
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C50
+Change Component Designator: OldDesignator=C? NewDesignator=C51
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=J? NewDesignator=J8
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=M? NewDesignator=M1
+Change Component Designator: OldDesignator=M? NewDesignator=M2
+Change Component Designator: OldDesignator=M? NewDesignator=M3
+Change Component Designator: OldDesignator=M? NewDesignator=M4
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP2
+Change Component Designator: OldDesignator=TP? NewDesignator=TP3
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Change Component Designator: OldDesignator=U? NewDesignator=U11
+Add Component: Footprint Not Found CUI_UJ2-MIBH-2-SMT-TR-67
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C32-2
+Add Pin To Net: Unknown Pin: Pin C33-1
+Add Pin To Net: Unknown Pin: Pin C33-2
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Add Pin To Net: Unknown Pin: Pin C40-1
+Add Pin To Net: Unknown Pin: Pin C40-2
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C41-2
+Add Pin To Net: Unknown Pin: Pin C42-1
+Add Pin To Net: Unknown Pin: Pin C42-2
+Add Pin To Net: Unknown Pin: Pin C61-1
+Add Pin To Net: Unknown Pin: Pin C61-2
+Add Pin To Net: Unknown Pin: Pin C62-1
+Add Pin To Net: Unknown Pin: Pin C63-1
+Add Pin To Net: Unknown Pin: Pin C63-2
+Add Pin To Net: Unknown Pin: Pin C64-1
+Add Pin To Net: Unknown Pin: Pin C64-2
+Add Pin To Net: Unknown Pin: Pin C66-1
+Add Pin To Net: Unknown Pin: Pin C66-2
+Add Pin To Net: Unknown Pin: Pin C82-1
+Add Pin To Net: Unknown Pin: Pin C82-2
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-2
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J4-4
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin J5-2
+Add Pin To Net: Unknown Pin: Pin J5-3
+Add Pin To Net: Unknown Pin: Pin J5-5
+Add Pin To Net: Unknown Pin: Pin J5-S1
+Add Pin To Net: Unknown Pin: Pin J5-S2
+Add Pin To Net: Unknown Pin: Pin J5-S3
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Added Pin To Net: NetName=NetR?_1 Pin=R22-1
+Add Pin To Net: Unknown Pin: Pin R42-1
+Add Pin To Net: Unknown Pin: Pin R42-2
+Add Pin To Net: Unknown Pin: Pin R43-1
+Add Pin To Net: Unknown Pin: Pin R43-2
+Add Pin To Net: Unknown Pin: Pin R44-1
+Add Pin To Net: Unknown Pin: Pin R44-2
+Add Pin To Net: Unknown Pin: Pin R45-1
+Add Pin To Net: Unknown Pin: Pin R45-2
+Add Pin To Net: Unknown Pin: Pin R48-1
+Add Pin To Net: Unknown Pin: Pin R48-2
+Add Pin To Net: Unknown Pin: Pin R49-1
+Add Pin To Net: Unknown Pin: Pin R49-2
+Add Pin To Net: Unknown Pin: Pin R57-1
+Add Pin To Net: Unknown Pin: Pin R57-2
+Add Pin To Net: Unknown Pin: Pin R58-1
+Add Pin To Net: Unknown Pin: Pin R58-2
+Add Pin To Net: Unknown Pin: Pin R82-1
+Add Pin To Net: Unknown Pin: Pin R82-2
+Add Pin To Net: Unknown Pin: Pin R83-1
+Add Pin To Net: Unknown Pin: Pin R83-2
+Add Pin To Net: Unknown Pin: Pin R86-1
+Add Pin To Net: Unknown Pin: Pin R86-2
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-11
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U6-7
+Add Pin To Net: Unknown Pin: Pin U6-8
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Add Pin To Net: Unknown Pin: Pin U9-1
+Add Pin To Net: Unknown Pin: Pin U9-2
+Add Pin To Net: Unknown Pin: Pin U9-3
+Add Pin To Net: Unknown Pin: Pin U9-4
+Add Pin To Net: Unknown Pin: Pin U9-5
+Add Pin To Net: Unknown Pin: Pin U9-7
+Add Pin To Net: Unknown Pin: Pin U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-10
+Add Pin To Net: Unknown Pin: Pin U9-11
+Add Pin To Net: Unknown Pin: Pin U9-12
+Add Pin To Net: Unknown Pin: Pin U9-13
+Add Pin To Net: Unknown Pin: Pin U9-14
+Add Pin To Net: Unknown Pin: Pin U9-16
+Add Pin To Net: Unknown Pin: Pin U9-18
+Add Pin To Net: Unknown Pin: Pin U9-19
+Add Pin To Net: Unknown Pin: Pin U9-20
+Add Pin To Net: Unknown Pin: Pin U9-21
+Added Pin To Net: NetName=NetR?_1 Pin=U10-3
+Added Pin To Net: NetName=GND Pin=U10-6
+Added Pin To Net: NetName=CS_DHC Pin=U10-12
+Add Pin To Net: Unknown Pin: Pin U12-1
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Pin To Net: Unknown Pin: Pin U12-6
+Add Pin To Net: Unknown Pin: Pin U12-7
+Add Pin To Net: Unknown Pin: Pin U12-8
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Add Pin To Net: Unknown Pin: Pin X1-4
+Change Net Name : Old Net Name=INT2_DSR New Net Name=INT1_DHS
+Change Net Name : Old Net Name=NetM?_1 New Net Name=NetM2_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR22_1
+Added Net: Name=INT2_DSR
+Add Net: Net with name "LIS_X" already exists
+Add Net: Net with name "LIS_Y" already exists
+Add Net: Net with name "LIS_Z" already exists
+Added Pin To Net: NetName=NetM1_1 Pin=M1-1
+Added Pin To Net: NetName=NetM1_1 Pin=U4-82
+Added Net: Name=NetM1_1
+Added Pin To Net: NetName=NetM3_1 Pin=M3-1
+Added Pin To Net: NetName=NetM3_1 Pin=U4-80
+Added Net: Name=NetM3_1
+Added Pin To Net: NetName=NetM4_1 Pin=M4-1
+Added Pin To Net: NetName=NetM4_1 Pin=U4-79
+Added Net: Name=NetM4_1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR23_1 Pin=U11-2
+Added Pin To Net: NetName=NetR23_1 Pin=U11-3
+Added Pin To Net: NetName=NetR23_1 Pin=U11-5
+Added Pin To Net: NetName=NetR23_1 Pin=U11-8
+Added Net: Name=NetR23_1
+Added Member To Class: ClassName=mems Member=Component C8 100n
+Added Member To Class: ClassName=mems Member=Component C10 100n
+Added Member To Class: ClassName=mems Member=Component C11 100n
+Added Member To Class: ClassName=mems Member=Component C12 100n
+Added Member To Class: ClassName=mems Member=Component C13 100n
+Add Class Member: Failed to add class member : Component C32 15pF
+Add Class Member: Failed to add class member : Component C33 15pF
+Add Class Member: Failed to add class member : Component C39 33pF
+Add Class Member: Failed to add class member : Component C40 33pF
+Add Class Member: Failed to add class member : Component C41 33pF
+Add Class Member: Failed to add class member : Component C42 33pF
+Added Member To Class: ClassName=mems Member=Component C50 100n
+Added Member To Class: ClassName=mcu Member=Component C51 100n
+Add Class Member: Failed to add class member : Component C61 100u
+Add Class Member: Failed to add class member : Component C62 100u
+Add Class Member: Failed to add class member : Component C63 100u
+Add Class Member: Failed to add class member : Component C64 100u
+Add Class Member: Failed to add class member : Component C66 2.2n
+Add Class Member: Failed to add class member : Component C82 910p
+Add Class Member: Failed to add class member : Component J4 CAN_JUMPER
+Add Class Member: Failed to add class member : Component J5 UJ2-MIBH-2-SMT-TR-67
+Added Member To Class: ClassName=mcu Member=Component J9 RESET
+Add Class Member: Failed to add class member : Component L1 KPZ1608SHR601ATD25
+Add Class Member: Failed to add class member : Component L2 KPZ1608SHR601ATD25
+Add Class Member: Failed to add class member : Component L3 FP1007R3-R17-R
+Added Member To Class: ClassName=mcu Member=Component M1 TN2130K1-G
+Added Member To Class: ClassName=mcu Member=Component M3 TN2130K1-G
+Added Member To Class: ClassName=mcu Member=Component M4 TN2130K1-G
+Added Member To Class: ClassName=mems Member=Component R9 12K
+Added Member To Class: ClassName=mems Member=Component R11 12K
+Added Member To Class: ClassName=mems Member=Component R12 12K
+Added Member To Class: ClassName=mems Member=Component R19 12K
+Added Member To Class: ClassName=mems Member=Component R20 0
+Added Member To Class: ClassName=mems Member=Component R21 0
+Added Member To Class: ClassName=mems Member=Component R22 0
+Add Class Member: Failed to add class member : Component R42 604
+Add Class Member: Failed to add class member : Component R43 604
+Add Class Member: Failed to add class member : Component R44 604
+Add Class Member: Failed to add class member : Component R45 604
+Add Class Member: Failed to add class member : Component R48 15K
+Add Class Member: Failed to add class member : Component R49 10
+Add Class Member: Failed to add class member : Component R57 67.3K
+Add Class Member: Failed to add class member : Component R58 0.01
+Add Class Member: Failed to add class member : Component R82 2.2K
+Add Class Member: Failed to add class member : Component R83 0.01
+Add Class Member: Failed to add class member : Component R86 60.4K
+Added Member To Class: ClassName=mems Member=Component TP1 Test Point
+Added Member To Class: ClassName=mems Member=Component TP2 Test Point
+Add Class Member: Failed to add class member : Component U2 IIS2ICLXTR (Digital Accel.)
+Add Class Member: Failed to add class member : Component U3 STTS751(Temperature)
+Add Class Member: Failed to add class member : Component U6 Voltage-Translator
+Add Class Member: Failed to add class member : Component U7 LSM6DSRXTR
+Add Class Member: Failed to add class member : Component U8 TI_Battery_Charger
+Add Class Member: Failed to add class member : Component U9 LTC3416-Voltage-Shifter
+Added Member To Class: ClassName=mems Member=Component U11 LSM6DSOXTR
+Add Class Member: Failed to add class member : Component U12 Voltage-Translator
+Add Class Member: Failed to add class member : Component X1 ABM3B-16.000MHZ-10-1-U-T

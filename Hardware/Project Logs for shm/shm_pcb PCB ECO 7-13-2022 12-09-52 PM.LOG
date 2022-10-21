@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=V_BATT Pin=C52-1
+Removed Pin From Net: NetName=GND Pin=C52-2
+Removed Pin From Net: NetName=DCDC Pin=C53-2
+Removed Pin From Net: NetName=DCDC Pin=L4-2
+Removed Pin From Net: NetName=NB_NET_STATUS Pin=Q5-3
+Removed Pin From Net: NetName=DCDC Pin=R26-2
+Removed Pin From Net: NetName=NB_NET_STATUS Pin=R63-1
+Removed Pin From Net: NetName=V_BATT Pin=U14-A1
+Removed Pin From Net: NetName=V_BATT Pin=U14-C1
+Removed Pin From Net: NetName=DCDC Pin=U14-E3
+Change Component Footprint: Designator=C52 Old Footprint=CAPC1608X90N New Footprint=CAPC1005X90N
+Change Component Comment : Designator=C52 Old Comment=22uF New Comment=10uF
+Change Component Designator: OldDesignator=SD CARD NewDesignator=J2
+Change component parameters: Designator = "C52" ("C52"); Footprint = "CAPC1608X90N"; UniqueID = "\YRYFIZTJ" ("\YRYFIZTJ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/372904.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05A106MP8NUB8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C50(CAPC1005X90N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/372904.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05A106MP8NUB8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C56(CAPC1005X90N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-19/372904.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CL05A106MP8NUB8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(HUSSP8W30P100_2X4_400X320X365P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//M40-3200445R.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M40-3200445R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "855-M40-3200445R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M40-3200445R"; VariantName = "[No Variations]"
+Added Component: Designator=J10(SHDR10W40P127_2X5_2083X565X1160P)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/M50-3550542.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M50-3550542"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDC2520X100N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//74438323022.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "74438323022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "710-74438323022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-74438323022"; VariantName = "[No Variations]"
+Added Component: Designator=R34(ERA3KV_(0603))
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/RDM0000C331.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERA-3VEB8062V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP1(test_point)
+Added Component: Designator=U6(MAX17220ALT)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX17220-MAX17225.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX17224ALT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=V_BATT Pin=C50-2
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=DCDC Pin=C52-2
+Added Pin To Net: NetName=V1p8 Pin=C53-2
+Added Pin To Net: NetName=GND Pin=C56-1
+Added Pin To Net: NetName=V_BATT Pin=C56-2
+Added Pin To Net: NetName=V1p8 Pin=J4-1
+Added Pin To Net: NetName=3V3_uC Pin=J6-1
+Added Pin To Net: NetName=V1p8 Pin=J10-1
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J10-5
+Added Pin To Net: NetName=GND Pin=J10-9
+Added Pin To Net: NetName=V_BATT Pin=L1-2
+Added Pin To Net: NetName=V1p8 Pin=L4-2
+Added Pin To Net: NetName=V1p8 Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R34-1
+Added Pin To Net: NetName=DCDC Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-3
+Added Pin To Net: NetName=V_BATT Pin=U6-5
+Added Pin To Net: NetName=V_BATT Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U14-A1
+Added Pin To Net: NetName=GND Pin=U14-C1
+Added Pin To Net: NetName=V1p8 Pin=U14-E3
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=U6-2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R63-1
+Added Net: Name=NetQ5_3
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=U6-4
+Added Net: Name=NetR34_2
+Added Member To Class: ClassName=new power management Member=Component C50 10uF
+Added Member To Class: ClassName=new power management Member=Component C56 10uF
+Added Member To Class: ClassName=connectors Member=Component J2 693071010811
+Added Member To Class: ClassName=mcu_v1 Member=Component J4 M40-3200445R
+Added Member To Class: ClassName=mcu_v1 Member=Component J10 M50-3550542
+Added Member To Class: ClassName=new power management Member=Component L1 2.2uH
+Added Member To Class: ClassName=new power management Member=Component R34 ERA-3VEB8062V
+Added Member To Class: ClassName=mems Member=Component TP1 test_point
+Added Member To Class: ClassName=new power management Member=Component U6 MAX17224ALT+T

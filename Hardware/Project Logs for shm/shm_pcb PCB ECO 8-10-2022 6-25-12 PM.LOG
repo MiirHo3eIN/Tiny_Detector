@@ -1,0 +1,74 @@
+Removed Pin From Net: NetName=GPIO0_GAP Pin=GAP Connector-32
+Removed Pin From Net: NetName=GPIO1_GAP Pin=GAP Connector-34
+Removed Pin From Net: NetName=GPIO2_GAP Pin=GAP Connector-36
+Removed Pin From Net: NetName=GPIO3_GAP Pin=GAP Connector-38
+Change Component Designator: OldDesignator=GAP Connector NewDesignator=J5
+Added Component: Designator=R58(RESC3216X51N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/60160/phpa.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.508mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PHPA1206E3300BST1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R59(RESC3216X51N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/60160/phpa.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.508mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PHPA1206E3300BST1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R60(ERJ3EK_(0603))
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//ERJ-3EKF1002V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Added Component: Designator=R61(ERJ3EK_(0603))
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com//ERJ-3EKF1002V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = "667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=667-ERJ-3EKF1002V"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(test_point)
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-6
+Added Pin To Net: NetName=GND Pin=J5-21
+Added Pin To Net: NetName=GND Pin=J5-27
+Added Pin To Net: NetName=GND Pin=J5-33
+Added Pin To Net: NetName=GND Pin=J5-37
+Added Pin To Net: NetName=GND Pin=J5-47
+Added Pin To Net: NetName=GND Pin=J5-57
+Added Pin To Net: NetName=GPIO3_GAP Pin=J5-60
+Added Pin To Net: NetName=GPIO2_GAP Pin=J5-62
+Added Pin To Net: NetName=GPIO0_GAP Pin=J5-64
+Added Pin To Net: NetName=GPIO1_GAP Pin=J5-66
+Added Pin To Net: NetName=GND Pin=J5-67
+Added Pin To Net: NetName=GND Pin=J5-72
+Added Pin To Net: NetName=V1p8 Pin=R60-1
+Added Pin To Net: NetName=V1p8 Pin=R61-1
+Added Pin To Net: NetName=(GPIO0)SW Pin=J5-50
+Added Pin To Net: NetName=(GPIO0)SW Pin=R59-1
+Added Net: Name=(GPIO0)SW
+Added Pin To Net: NetName=NetJ5_8 Pin=J5-8
+Added Pin To Net: NetName=NetJ5_8 Pin=R58-2
+Added Net: Name=NetJ5_8
+Added Pin To Net: NetName=NetJ5_10 Pin=J5-10
+Added Pin To Net: NetName=NetJ5_10 Pin=R59-2
+Added Net: Name=NetJ5_10
+Added Pin To Net: NetName=NetJ5_32 Pin=J5-32
+Added Pin To Net: NetName=NetJ5_32 Pin=R61-2
+Added Net: Name=NetJ5_32
+Added Pin To Net: NetName=NetJ5_34 Pin=J5-34
+Added Pin To Net: NetName=NetJ5_34 Pin=R60-2
+Added Net: Name=NetJ5_34
+Added Pin To Net: NetName=RAM_PWR_EN Pin=J5-36
+Added Pin To Net: NetName=RAM_PWR_EN Pin=R58-1
+Added Net: Name=RAM_PWR_EN
+Added Member To Class: ClassName=mcu_v1 Member=Component R58 330
+Added Member To Class: ClassName=mcu_v1 Member=Component R59 330
+Added Member To Class: ClassName=mcu_v1 Member=Component R60 10K
+Added Member To Class: ClassName=mcu_v1 Member=Component R61 10K
+Added Member To Class: ClassName=mems Member=Component TP1 test_point

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=GND Pin=C18-1
+Added Component: Designator=TP5(test_point)
+Added Component: Designator=TP6(test_point)
+Added Pin To Net: NetName=AGND Pin=C16-2
+Added Pin To Net: NetName=AGND Pin=C17-1
+Added Pin To Net: NetName=AGND Pin=C18-1
+Added Pin To Net: NetName=CAN1_EN Pin=TP5-1
+Added Pin To Net: NetName=CS_BERK Pin=TP6-1

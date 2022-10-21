@@ -1,0 +1,24 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\amir\Documents\Altium\AD22\projects\shm_project\PCB_Project\gerber_amirhossein\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0118		286
+ 3 		0.0276		8
+ 4 		0.0280		74
+ 5 		0.0295		20
+ 6 		0.0315		2
+ 7 		0.0402		28
+ 8 		0.0630		1
+ 9 		0.0748		4
+ 10 		0.1260		4
+ 12 		0.0276		2
+ 13 		0.0413		2
+ 14 		0.0453		1
+ 15 		0.0650		1

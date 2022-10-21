@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=OCTOSPIM_P1_IO1 Pin=IC3-14
+Removed Pin From Net: NetName=OCTOSPIM_P1_CLK Pin=IC3-15
+Removed Pin From Net: NetName=OCTOSPIM_P1_NCS Pin=IC3-16
+Removed Pin From Net: NetName=OCTOSPIM_P1_IO0 Pin=IC3-17
+Removed Pin From Net: NetName=OCTOSPIM_P1_IO3 Pin=IC3-18
+Removed Pin From Net: NetName=OCTOSPIM_P1_IO2 Pin=IC3-20
+Removed Pin From Net: NetName=GND Pin=J7-MP1
+Removed Pin From Net: NetName=GND Pin=J7-MP2
+Removed Pin From Net: NetName=GND Pin=J7-MP3
+Removed Pin From Net: NetName=SPI3_CLK Pin=TP13-1
+Change Footprint: Footprint Not Found MICRO-USB(2.0-SMT-TYPE-B)
+Change Component Comment : Designator=J7 Old Comment=UJ2-MIBH-2-SMT-TR-67 New Comment=629105136821
+Change component parameters: Designator = "J7" ("J7"); Footprint = "UJ2MIBH2SMTTR67"; UniqueID = "\KEPWURPT" ("\KEPWURPT")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/629105136821.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "629105136821"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Part Number"; Value = "710-629105136821"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser2 Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-629105136821"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RESC1005X40N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/CR0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R44(RESC1005X40N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/CR0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R45(RESC1005X40N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/CR0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R47(RESC1005X40N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/CR0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R50(RESC1005X40N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/CR0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R51(RESC1005X40N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.bourns.com/pdfs/CR0402.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CR0402-FX-10R0GLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser2 Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J7-6
+Add Pin To Net: Unknown Pin: Pin J7-7
+Add Pin To Net: Unknown Pin: Pin J7-8
+Add Pin To Net: Unknown Pin: Pin J7-9
+Added Pin To Net: NetName=OCTOSPIM_P1_NCS Pin=R36-1
+Added Pin To Net: NetName=OCTOSPIM_P1_IO0 Pin=R44-2
+Added Pin To Net: NetName=OCTOSPIM_P1_CLK Pin=R45-1
+Added Pin To Net: NetName=OCTOSPIM_P1_IO1 Pin=R47-1
+Added Pin To Net: NetName=OCTOSPIM_P1_IO3 Pin=R50-2
+Added Pin To Net: NetName=OCTOSPIM_P1_IO2 Pin=R51-2
+Added Pin To Net: NetName=SPI3_MOSI Pin=TP13-1
+Added Pin To Net: NetName=NetIC3_14 Pin=IC3-14
+Added Pin To Net: NetName=NetIC3_14 Pin=R47-2
+Added Net: Name=NetIC3_14
+Added Pin To Net: NetName=NetIC3_15 Pin=IC3-15
+Added Pin To Net: NetName=NetIC3_15 Pin=R45-2
+Added Net: Name=NetIC3_15
+Added Pin To Net: NetName=NetIC3_16 Pin=IC3-16
+Added Pin To Net: NetName=NetIC3_16 Pin=R36-2
+Added Net: Name=NetIC3_16
+Added Pin To Net: NetName=NetIC3_17 Pin=IC3-17
+Added Pin To Net: NetName=NetIC3_17 Pin=R44-1
+Added Net: Name=NetIC3_17
+Added Pin To Net: NetName=NetIC3_18 Pin=IC3-18
+Added Pin To Net: NetName=NetIC3_18 Pin=R50-1
+Added Net: Name=NetIC3_18
+Added Pin To Net: NetName=NetIC3_20 Pin=IC3-20
+Added Pin To Net: NetName=NetIC3_20 Pin=R51-1
+Added Net: Name=NetIC3_20
+Added Member To Class: ClassName=mcu_v1 Member=Component R36 10
+Added Member To Class: ClassName=mcu_v1 Member=Component R44 10
+Added Member To Class: ClassName=mcu_v1 Member=Component R45 10
+Added Member To Class: ClassName=mcu_v1 Member=Component R47 10
+Added Member To Class: ClassName=mcu_v1 Member=Component R50 10
+Added Member To Class: ClassName=mcu_v1 Member=Component R51 10
